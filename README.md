@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Building a modern data warehouse with MySQL, including ETL processes, data modeling and analysis 
+This project focuses on designing and building a modern data warehouse using MySQL, featuring ETL processes for efficient data loading, robust data modeling, and advanced analysis capabilities. It demonstrates how to organize source data into structured layers for better business intelligence, supporting scalable analytics and visualization needs in logistics or enterprise environments
